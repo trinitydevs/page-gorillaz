@@ -1,5 +1,5 @@
 
-HTML Semântico:
+HTML Semântico:                                                                     
 Vantagens - Mais simples de compreender e interpretar                                  
 Usabilidade - Proporciona um significado estruturado ao conteúdo, ou seja, é padronizado e fácil de entender. Além disso, facilita a indexação pelos mecanismos de busca.                     
 Benefícios - Maior clareza e acesso ao seu conteúdo, compreensão dos temas da página e melhor filtragem. Também simplifica a manutenção do código.                      
